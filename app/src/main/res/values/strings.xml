@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AnimX</string>
+    <string name="logoimage">logoimage</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="new_user_sign_up">New User? Sign Up</string>
+    <string name="new_user_sign_up_now">New User? Sign Up Now</string>
+    <string name="loginlogo">loginlogo</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="animx">AnimX</string>
+    <string name="login_to_continue">LogIn To Continue</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="last_name">Last Name</string>
+    <string name="anime">Anime</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="manga">Manga</string>
+    <string name="watchlist">WatchList</string>
+    <string name="sanam_sahoo">Sanam Sahoo</string>
+    <string name="sanam">Sanam</string>
+    <string name="fall_2020">Fall 2020</string>
+    <string name="anime_channels">Anime Channels</string>
+    <string name="upcoming">UpComing</string>
+    <string name="plan_to_watch">Plan TO Watch</string>
+    <string name="synopiys">Synopiys</string>
+    <string name="once_uopn_a_time_there_is_alliafklskdnflaisleknrf_aiksdfaielfknsefo_seilfkwenfowiewfknwl_ekfn_soiefn_lkwenf_sien_n">Once uopn a time there is alliafklskdnflaisleknrf;aiksdfaielfknsefo;seilfkwenfowiewfknwl;ekfn;soiefn;lkwenf;sien;n</string>
+    <string name="sample2">sample2</string>
+    <string name="sample1">sample1</string>
+    <string name="sample3">sample3</string>
+    <string name="sample4">sample4</string>
+    <string name="sample5">sample5</string>
+    <string name="sample6">sample6</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="promo_codes">Promo_codes</string>
+    <string name="orders">Orders</string>
+    <string name="setting">Setting</string>
+    <string name="support">Support</string>
+    <string name="first_name">First Name</string>
+    <string name="resigter_logo">resigter_logo</string>
+    <string name="manga_sources">Manga Sources</string>
+
+</resources>

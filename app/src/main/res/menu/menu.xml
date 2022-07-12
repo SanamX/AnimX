@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Home"
+            android:icon="@drawable/home"
+            android:id="@+id/search"
+            />
+        <item
+            android:title="News"
+            android:icon="@drawable/ic_baseline_amp_stories_24"
+            android:id="@+id/basket"
+            />
+        <item
+            android:title="MyAnimeList"
+            android:icon="@drawable/ic_baseline_view_list_24"
+            android:id="@+id/promo_code"
+            />
+        <item
+            android:title="Discord"
+            android:icon="@drawable/ic_baseline_android_24"
+            android:id="@+id/orders"
+            />
+    </group>
+    <item android:title=""
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="My Profile"
+                    android:icon="@drawable/ic_baseline_account_circle_24"
+                    android:id="@+id/favorite"
+                    />
+                <item
+                    android:title="@string/setting"
+                    android:icon="@drawable/ic_baseline_settings_24"
+                    android:id="@+id/setting"
+                    />
+                <item
+                    android:title="About"
+                    android:icon="@drawable/ic_baseline_info_24"
+                    android:id="@+id/support"
+                    />
+            </group>
+        </menu>
+    </item>
+</menu>

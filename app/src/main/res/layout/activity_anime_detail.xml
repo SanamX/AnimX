@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AnimeDetail"
+    android:padding="4dp">
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="260dp"
+    android:id="@+id/imagelinear"
+    android:padding="10dp"
+    android:elevation="12dp"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/animeimage"
+        android:layout_width="match_parent"
+        android:layout_height="240dp">
+    </ImageView>
+
+</LinearLayout>
+    <TextView
+        android:elevation="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/imagelinear"
+        android:padding="5dp"
+        android:id="@+id/animetitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimary"
+        android:fontFamily="@font/actor"
+        android:text="@string/fall_2020"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textStyle="bold">
+
+    </TextView>
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/animetitle"
+    android:background="#F4F3EC">
+    <TextView
+        android:elevation="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="StoryLine"
+        android:id="@+id/animedetali"
+        android:layout_marginTop="15dp"
+        android:padding="5dp"
+        android:fontFamily="@font/aclonica"
+        android:textColor="#000"
+        android:textStyle="bold">
+    </TextView>
+
+    <TextView
+        android:textSize="12sp"
+        android:elevation="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/once_uopn_a_time_there_is_alliafklskdnflaisleknrf_aiksdfaielfknsefo_seilfkwenfowiewfknwl_ekfn_soiefn_lkwenf_sien_n"
+        android:id="@+id/animedetailone"
+        android:layout_below="@+id/animedetali"
+        android:layout_marginTop="8dp"
+        android:padding="5dp"
+        android:fontFamily="@font/actor"
+        android:textColor="#000"
+        android:textStyle="bold">
+    </TextView>
+</RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000393515918",
+    "firebase_url": "https://animx-d2e01.firebaseio.com",
+    "project_id": "animx-d2e01",
+    "storage_bucket": "animx-d2e01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000393515918:android:a3b0482a732d5b98113adf",
+        "android_client_info": {
+          "package_name": "com.samx08.animx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000393515918-nv4am6gpretg5sm0hrk2eqp8v93f7670.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samx08.animx",
+            "certificate_hash": "fc5fea2adba5e31f81c161ecd767e4ee99565df9"
+          }
+        },
+        {
+          "client_id": "1000393515918-4aa80jomodl9d3ttfp218q6hjtk4l8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbYUyVIJNw93XOgnzRdZJ6_EP4MFOzN8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000393515918-4aa80jomodl9d3ttfp218q6hjtk4l8t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
